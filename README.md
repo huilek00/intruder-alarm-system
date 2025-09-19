@@ -19,7 +19,7 @@ This project is for CPC357 Assignment. This intruder alarm system will trigger t
 - MongoDB Atlas
 
 ## Architecture Diagram
-![Architecture Diagram](C:\Users\User\Pictures\Screenshots\Screenshot Architecture Diagram.png)
+![Architecture Diagram](screenshot/ScreenshotArchitectureDiagram.png)
 
 ## Description 
 
