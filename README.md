@@ -18,6 +18,9 @@ This project is for CPC357 Assignment. This intruder alarm system will trigger t
 - Google Cloud Platform
 - MongoDB Atlas
 
+## Architecture Diagram
+![Architecture Diagram](C:\Users\User\Pictures\Screenshots\Screenshot Architecture Diagram.png)
+
 ## Description 
 
 The intruder alarm system utilizes a passive infrared (PIR) motion sensor and MC-38 door magnetic sensor switch that are interfaced with the Maker Feather AIoT S3 board to detect intrusions. 
